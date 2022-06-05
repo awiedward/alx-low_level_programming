@@ -1,3 +1,25 @@
-#!/bin/bash
-gcc -Wall -Werror -Wextra -pedantic -std=gnu89 4-puts.c && ./a.out
-"Programming is like building a multilingual puzzle
+#include <stdio.h>
+
+/**
+ *
+ *  * main - Prints out a string to stdout.
+ *
+ *   *
+ *
+ *    * Description: this prins out string
+ *
+ *     *
+ *
+ *      * Return: 0 if success.
+ *
+ *       */
+
+int main(void)
+
+{
+
+		puts("\"Programming is like building a multilingual puzzle");
+
+			return (0);
+
+}
