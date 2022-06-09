@@ -12,7 +12,7 @@ int main(void)
 		putchar(num);
 		putchar(num);
 
-		for (num == 57)
+		puthcar(num == 57)
 		{
 			break;
 		}
