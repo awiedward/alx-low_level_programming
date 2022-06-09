@@ -5,7 +5,7 @@
 **/
 int main(void)
 {
-	_reverse;
+	int _reverse;
 
 	for (reverse_lower_c = 122; reverse_lower_c, <= 97; reverse_lower_c, --)
 	for (reverse_lower_c = 122; reverse_lower_c, >= 97; reverse_lower_c, --)
