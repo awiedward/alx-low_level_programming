@@ -11,7 +11,7 @@ int main(void)
 	{
 		putchar(num);
 
-		putchar(num == 57);
+		putchar(num == 30);
 		{
 			break;
 		}
