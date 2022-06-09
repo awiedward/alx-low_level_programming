@@ -5,7 +5,6 @@
 **/
 int main(void)
 {
-
 	int i;
 
 	for (i = 0; i < 100; i++)
@@ -15,6 +14,5 @@ int main(void)
 		printf("%i", i);
 	}
 		printf('\n');
-
-		return (0);
+	return (0);
 }
